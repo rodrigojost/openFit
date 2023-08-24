@@ -36,10 +36,10 @@ A good addiction to this tool would be to develop a GUI and enable real time vid
 ### Images
 
 #### Algorithm Work Principle
-<img src="https://github.com/rodrigojost/openFit/main/assets/software.png">
+<img src="https://github.com/rodrigojost/openFit/blob/master/assets/software.png">
 
 #### Image Results
-<img src="https://github.com/rodrigojost/openFit/main/assets/imageResults.png">
+<img src="https://github.com/rodrigojost/openFit/blob/master/assets/imageResults.png">
 
 #### Calculated Results
-<img src="https://github.com/rodrigojost/openFit/main/assets/mathResults.png">
+<img src="https://github.com/rodrigojost/openFit/blob/master/assets/mathResults.png">
